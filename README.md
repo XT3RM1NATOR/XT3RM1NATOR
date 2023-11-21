@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Shamshidov</h1>
 
 ## 💫 About Me:
+<h3>19y/o</h3>
 <h3>Backend developer from 🇺🇿</h3>
 <h3>🧑🏻‍💻 Currently contributing at Humo - National Payment System </h3>
 
