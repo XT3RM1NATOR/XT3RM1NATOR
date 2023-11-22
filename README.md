@@ -1,1 +1,1 @@
-![4 YO EXP](https://github.com/XT3RM1NATOR/XT3RM1NATOR/assets/115317256/77d5fa19-3579-4480-a55f-00ab2b5749b7)
+![Uploading 4 YO EXP.png…]()
