@@ -9,3 +9,5 @@
   &nbsp;
   <img src="https://github.com/XT3RM1NATOR/XT3RM1NATOR/assets/115317256/9fb5a4f5-7d53-4577-aabe-20e4e044c10a" width=48% alt="Pee">
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=xt3rm1nator&icon=0&color=0)](https://visitcount.itsvg.in)
