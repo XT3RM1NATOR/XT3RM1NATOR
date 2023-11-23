@@ -1,4 +1,4 @@
-<img src="https://github.com/XT3RM1NATOR/XT3RM1NATOR/assets/115317256/3de3a96a-b1b9-4914-93e3-da2e23a84150" alt="WELCOME">
+<img src="https://github.com/XT3RM1NATOR/XT3RM1NATOR/assets/115317256/8ccc7a93-4643-4502-a888-2a2a3676848f" alt="WELCOME">
 
 
 <p>
