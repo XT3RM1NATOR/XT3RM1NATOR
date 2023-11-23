@@ -8,5 +8,5 @@
   <img src="https://github.com/XT3RM1NATOR/XT3RM1NATOR/assets/115317256/1a70a2c8-2c28-46e2-b99d-e15344c9deeb" width=48% alt="Pee">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=xt3rm1nator&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=XT3RM1NATOR&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
